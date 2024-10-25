@@ -4,13 +4,13 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP2?
-
+Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um zu schauen wie gut ich darin bin. Nachdem schau ich bzw. wir was wir als Projekt für die Lernperiode machen wollen.
 ## 25.10.2024
 
-- [ ] ...
-- [ ] ...
+
+- [ ] Einen Random Numberguesser erstellen um nochmal zu üben.
+- [ ] Ideen sammeln für das neue Projekt bis zu Weihnachten.
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
