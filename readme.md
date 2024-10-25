@@ -12,15 +12,16 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 - [ ] Ideen sammeln für das neue Projekt bis zu Weihnachten.
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich nochmal am Random numbreguesser probiert und habe nochmals einiges repetieren müssen der Nuberguesser ist nicht fertig aber warscheinlich werde ich ihn noch fertig machen.
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 1.11.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Numberguesser beenden 
+- [ ] Bereden was wir für ein Projekt machen wollen
+- [ ] Vieleicht schon Anfangen mit dem Projekt
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
