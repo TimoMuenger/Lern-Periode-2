@@ -29,8 +29,15 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 
 ## 8.11.2024
 
-- [ ] Weiter über Arrays informieren (Youtube vid.)
+- [x] Weiter über Arrays informieren (Youtube vid.)
 - [ ] Einen best möglichen Weg finden wie ich diese Vorstufe lösen kann
 - [ ] Diese Lösung anwenden um die Arbeit zu vereinfachen 
 - [ ] So weit wie möglich an dem Auftrag Arbeiten(Ziel:Mit Pfeiltasten bewegen können)
+
+✍️ Heute konnte ich mich erst richtig über die Arrays informieren, dass aber auch nicht wirklich gut, weil es technische Probleme gab. Das war aber doch kein grosses Problem, da ich einfach auf dem Handy die Videos schauen konnte. Nach einer Zeit als es wieder funktioniert habe ich mich an den Arrays ausprobiert und die Lösung versucht zu finden. Das brachte mir grosse Schwierigkeiten ein da es für mich viel schwieriger als gedacht. Desswegen muss ich mich damit beim mal noch ein weilchen beschäftigen.
+
+## 15.11.2024
+- [ ] Einen best möglichen Weg finden wie ich diese Vorstufe lösen kann
+- [ ] Diese Lösung anwenden um die Arbeit zu vereinfachen
+- [ ] Falls Zeit noch vorhanden: herausfinden wie man die Pfeiltasten verwenden kann
 
