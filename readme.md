@@ -29,8 +29,8 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 
 ## 8.11.2024
 
--[] Weiter über Arrays informieren (Youtube vid.)
--[] Einen best möglichen Weg finden wie ich diese Vorstufe lösen kann
--[] Diese Lösung anwenden um die Arbeit zu vereinfachen 
--[] So weit wie möglich an dem Auftrag Arbeiten(Ziel:Mit Pfeiltasten bewegen können)
+-[ ] Weiter über Arrays informieren (Youtube vid.)
+-[ ] Einen best möglichen Weg finden wie ich diese Vorstufe lösen kann
+-[ ] Diese Lösung anwenden um die Arbeit zu vereinfachen 
+-[ ] So weit wie möglich an dem Auftrag Arbeiten(Ziel:Mit Pfeiltasten bewegen können)
 
