@@ -41,3 +41,11 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 - [ ] Diese Lösung anwenden um die Arbeit zu vereinfachen
 - [ ] Falls Zeit noch vorhanden: herausfinden wie man die Pfeiltasten verwenden kann
 
+✍️ Heute kam ich so gut wie gar nicht voran. Ich habe grosse mühe daran herauszufinden wie es funktionieren sollte etwas mit den Pfeiltasten und überhaupt etwas zum bewegen bringen kann. Ich habe nochmal einige Tutorials durchgeschaut und probiert ob ich etwas finden konnte. Doch die Tutorials waren alle nicht diese die ich Suchte. Danach habe ich noch versucht mich über Chat GPT zu informieren und zu schauen ober der Code von Chat GPT mir hilft. Doch der hat einen Fehler drin den ich nicht fand. Ich denke für das nächste mal ist ein Lehrngespräch undbedingt nötig weil mir mitlerweile die Ideen ausgegangen sind.
+
+## 22.11.2024 
+- [ ] Lehrngesprächt mit Herr Colic
+- [ ] Durch Lehrgespräch an neue Ideen zu gelangen
+- [ ] Neue Ideen so gut wie möglich umsetzten
+
+
