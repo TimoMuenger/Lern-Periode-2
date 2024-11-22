@@ -41,11 +41,16 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 - [ ] Diese Lösung anwenden um die Arbeit zu vereinfachen
 - [ ] Falls Zeit noch vorhanden: herausfinden wie man die Pfeiltasten verwenden kann
 
-✍️ Heute kam ich so gut wie gar nicht voran. Ich habe grosse mühe daran herauszufinden wie es funktionieren sollte etwas mit den Pfeiltasten und überhaupt etwas zum bewegen bringen kann. Ich habe nochmal einige Tutorials durchgeschaut und probiert ob ich etwas finden konnte. Doch die Tutorials waren alle nicht diese die ich Suchte. Danach habe ich noch versucht mich über Chat GPT zu informieren und zu schauen ober der Code von Chat GPT mir hilft. Doch der hat einen Fehler drin den ich nicht fand. Ich denke für das nächste mal ist ein Lehrngespräch undbedingt nötig weil mir mitlerweile die Ideen ausgegangen sind.
+✍️ Heute kam ich so gut wie gar nicht voran. Ich habe grosse mühe daran herauszufinden wie es funktionieren sollte etwas mit den Pfeiltasten und überhaupt etwas zum bewegen bringen kann. Ich habe nochmal einige Tutorials durchgeschaut und probiert ob ich etwas finden konnte. Doch die Tutorials waren alle nicht diese die ich Suchte. Danach habe ich noch versucht mich über Chat GPT zu informieren und zu schauen ober der Code von Chat GPT mir hilft. Doch der hat einen Fehler drin den ich nicht fand. Ich denke für das nächste mal ist ein Lerngespräch undbedingt nötig weil mir mitlerweile die Ideen ausgegangen sind.
 
 ## 22.11.2024 
-- [ ] Lehrngesprächt mit Herr Colic
-- [ ] Durch Lehrgespräch an neue Ideen zu gelangen
-- [ ] Neue Ideen so gut wie möglich umsetzten
+- [ ] Einen Voci Trainer machen der den Benutzer 10 Wörter (array) aberfragt
+- [x] Der Voci Trainer soll den Benutzer begrüssen und auf die Antwort des Nutzers antworten mit Richtig oder Falsche
+- [ ] Das Programm soll den Nutzer Fragen, ob er das abgefragte Worte für weitere Durchgänge abgefragt bekommen möchte oder nicht
 
+✍️ Heute habe ich mir mit Herr Colic mein neues Projekt angeschaut, weil ich beim anderen nicht wusste wie ich es machen sollte. Ich habe die Arbeitspakete die wir zusammen gemacht haben leider nicht gespeichert. Also musst ich diese neuschreiben. Ich wusste nicht mehr alle, desswegen habe ich auch nur noch 3 Arbeitspakte gehabt. Trotz dessen konnten ich mit meinem Code anfangen. Aber bin desswegeg auch noch nicht so weit gekommen.
+## 29.11.2024
+- [ ] Fehler im Code beheben
+- [ ] Die anderen Wörter auch abfragen können
+- [ ] Das Programm soll den Nutzer Fragen, ob er das abgefragte Worte für weitere Durchgänge abgefragt bekommen möchte oder nicht
 
