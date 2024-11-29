@@ -51,6 +51,11 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 ✍️ Heute habe ich mir mit Herr Colic mein neues Projekt angeschaut, weil ich beim anderen nicht wusste wie ich es machen sollte. Ich habe die Arbeitspakete die wir zusammen gemacht haben leider nicht gespeichert. Also musst ich diese neuschreiben. Ich wusste nicht mehr alle, desswegen habe ich auch nur noch 3 Arbeitspakte gehabt. Trotz dessen konnten ich mit meinem Code anfangen. Aber bin desswegeg auch noch nicht so weit gekommen.
 ## 29.11.2024
 - [ ] Fehler im Code beheben
-- [ ] Die anderen Wörter auch abfragen können
+- [x] Die anderen Wörter auch abfragen können
 - [ ] Das Programm soll den Nutzer Fragen, ob er das abgefragte Worte für weitere Durchgänge abgefragt bekommen möchte oder nicht
+
+✍️ Heute habe ich den Code so erweitert, dass er nun alle 10 Wörter abfragt. Leider konnte ich den Fehler nicht beheben und für das letzte Arbeitspaket hatte ich noch ein wenig Zeit und konnte mich darüber informieren wie in etwa ich es ausführen sollte. 
+- [ ] Weiterhin versuchen den Fehler zu beheben
+- [ ] Das Programm soll den Nutzer Fragen, ob er das abgefragte Worte für weitere Durchgänge abgefragt bekommen möchte oder nicht
+- [ ] Falls noch Zeit vorhanden: Weitere Sachen suchen um den Code zu verbessern
 
