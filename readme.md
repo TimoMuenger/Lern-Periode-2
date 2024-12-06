@@ -63,5 +63,5 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 
 - [ ] Den fehler beheben beim Array(Es gibt einen Fehler beim verwenden des Arrays)
 - [ ] In den Vocitrainer eine Methode mit Franz Voci einbauen
-- [ ] 
+
 
