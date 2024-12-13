@@ -61,7 +61,12 @@ Am ersten Tag der 2. Lernperiode werde ich einen random Numberguesser macher um 
 
 ✍️ Heute habe ich mich an den Advent of Code Rätzeln probieren. Ich ging mit der erwartung hinein, dass es machbar sei und das ich nach einiger Zeit hinbekommen werde. Das war allerdings nicht der Fall. Ich hatte z.B. schwierigkeiten dabei bei dem ersten meinen ersten Schritt herauszufinden und musste lang Zeit überlegen und recherchieren. Ich stiess auf ein Tutorial für genau dieses Rätzel, welches ich nicht vertanden habe also wollte ich es auch nicht einfach kopieren. Ich möchte fürs nächste mal einfach das Andventsrätzel bei Seite legen und meinen Normalen Code beenden
 
-- [ ] Den fehler beheben beim Array(Es gibt einen Fehler beim verwenden des Arrays)
-- [ ] In den Vocitrainer eine Methode mit Franz Voci einbauen
+- [x] Den fehler beheben beim Array(Es gibt einen Fehler beim verwenden des Arrays)
+- [x] In den Vocitrainer eine Methode mit Franz Voci einbauen
+
+✍️ Heute habe ich Eine funktion eibauen können, bei der man jetzt auch Französisch lernen kann. Auch habe ich den fehler beheben können, den ich bei meinem Array hatte. Fürs nächste mal möchte ich nocht einige Erweiterungen einbauen und somit dann mein Projekt abschliessen.
+
+- [ ] Den Randomizer für die Random Reihenfolge bei den Wörter
+- [ ] Ein Try Catch einbauen, dass das Programm nicht abstürtzt wenn man etwas falsches eingibt
 
 
